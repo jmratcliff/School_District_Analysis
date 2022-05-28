@@ -13,7 +13,7 @@ Below are the results of the individual analyses with snapshots of the original 
 ### District Summary
 * Original
 
- ![District_orig](Resources/District_Original.png)
+ ![District_orig](Resources/District_orig.png)
 
 * Updated
 
@@ -22,7 +22,7 @@ Below are the results of the individual analyses with snapshots of the original 
  ### School Summary
  * Original
 
-![School_orig](Resources/School_Original.png)
+![School_orig](Resources/School_orig.png)
 
 * Updated
 
