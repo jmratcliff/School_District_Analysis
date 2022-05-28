@@ -71,5 +71,5 @@ Below are the results of the individual analyses with snapshots of the original 
 
 * Updated
 
- 
+ ![Type__updt](Resources/Type_updated.png)
  
