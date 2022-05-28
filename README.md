@@ -73,3 +73,12 @@ Below are the results of the individual analyses with snapshots of the original 
 
  ![Type__updt](Resources/Type_updated.png)
  
+## Summary
+While the invalidated 9th grade scores had a significant affect on Thomas High School's performance, it did not have a significant affect on the overall district's performance.
+
+* Thomas High School's average Math Score dropped from 83.41 to 83.35 and Reading Score actually went up from 83.85 to 83.89
+* Thomas High School's % Passing Math went from 93.3% to 66.9% and Passing Reading % dropped from 37.3% to 69.7%
+* Thomas High School's Overall Passing % went dropped from 90.9% to 65.1%
+* The District's Average Math scores dropped marginally from 79.0 to 78.9 and Average Reading scores stayed at 81.9
+* The District's Overall Passing Percent dropped from 65.0% to 64.9%
+
