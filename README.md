@@ -13,7 +13,7 @@ Below are the results of the individual analyses with snapshots of the original 
 ### District Summary
 * Original
 
- ![District_orig](Resources/District_Original.png)
+ 
 
 * Updated
 
@@ -22,7 +22,7 @@ Below are the results of the individual analyses with snapshots of the original 
  ### School Summary
  * Original
 
-![School_orig](Resources/School_Original.png)
+
 
 * Updated
 
@@ -31,7 +31,7 @@ Below are the results of the individual analyses with snapshots of the original 
  ### School Reading Scores Summary
  * Original
 
-![School_reading_orig](Resources/School_reading_grade_orig.png)
+
 
 * Updated
 
@@ -40,7 +40,7 @@ Below are the results of the individual analyses with snapshots of the original 
  ### School Math Scores Summary
  * Original
 
-![School_math_orig](Resources/School_math_grade_orig.png)
+
 
 * Updated
 
@@ -49,7 +49,7 @@ Below are the results of the individual analyses with snapshots of the original 
  ### Spending Summary
  * Original
 
-![Spending_orig](Resources/Spending_orig.png)
+
 
 * Updated
 
@@ -58,7 +58,7 @@ Below are the results of the individual analyses with snapshots of the original 
   ### Size Summary
  * Original
 
-![Size_orig](Resources/Size_original.png)
+
 
 * Updated
 
@@ -67,7 +67,7 @@ Below are the results of the individual analyses with snapshots of the original 
   ### Type Summary
  * Original
 
-![Type_orig](Resources/Type_original.png)
+
 
 * Updated
 
