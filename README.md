@@ -12,6 +12,6 @@ Below are the results of the individual analyses with snapshots of the original 
 
 ### District Summary
 * Original
-
+ ![District_orig](Resources/District_Original.png)
 
 * Updated
